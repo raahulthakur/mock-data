@@ -83,15 +83,5 @@
         "gender": "Male",
         "id": "rtrahulthakur5@gmail.com"
       },
-      {
-        "profile": "./../../../../assets/profile-pictures/ninja.svg",
-        "firstName": "Rahul",
-        "lastName": "Thakur",
-        "email": "rahul.thakur731@gmail.com",
-        "phone": "8390682764",
-        "role": "CEO",
-        "gender": "Male",
-        "id": "rahul.thakur731@gmail.com"
-      }
     ]
   }
