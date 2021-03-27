@@ -63,15 +63,5 @@
         "role": "Strategist",
         "email": "lucienne.herman@hotmail.com"
       },
-      {
-        "profile": "./../../../../assets/profile-pictures/ninja.svg",
-        "firstName": "Rahul",
-        "lastName": "Thakur",
-        "email": "rahul.thakur7319@gmail.com",
-        "phone": "8390682764",
-        "role": "Front end Developer",
-        "gender": "Male",
-        "id": "rahul.thakur7319@gmail.com"
-      }
     ]
   }
